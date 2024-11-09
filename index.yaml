@@ -15,6 +15,6 @@ entries:
     - https://vidispine.github.io/hull
     type: application
     urls:
-    - hull-wrapper-0.1.0.tgz
+    - https://github.com/brandonros/hull-wrapper/raw/refs/heads/master/hull-wrapper-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-09T10:40:13.185446-05:00"
